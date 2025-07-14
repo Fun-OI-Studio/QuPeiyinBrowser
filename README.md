@@ -41,7 +41,7 @@ python main.py
 
 ## 文件结构
 ```
-qupeiyin_browser/
+qupeiyin_browser/src/
 ├── app/
 │   └── xtc/            # 前端资源
 │       └── privacy/     # HTML文件存放
