@@ -73,7 +73,7 @@ def modify_hosts(action='add'):
         cmd += ' && ipconfig /flushdns && ipconfig /flushdns && ipconfig /flushdns  && powershell Clear-DnsClientCache'
         
         try:
-            res = subprocess.Popen(cmd, shell=True, check=True)
+            res = subprocess.Popen(cmd, shell=True)
             print("修改hosts成功")
             if action == 'add':
                 print("提示", "更改需等待几秒并让手表重新连接热点生效\n若迟迟不生效，请在电脑重启热点或/和执行ipconfig /flushdns\n有时也许要重启电脑（因为flushdns是《玄》学）")
