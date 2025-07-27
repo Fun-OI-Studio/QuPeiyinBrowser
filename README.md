@@ -1,5 +1,4 @@
 
-和大家说一个消息，由于不可抗力因素，本项目从即日起无限期停止维护，这条道路很短，但是我们的总路程还很长......**[作者有话说](https://github.com/CreativeStar-Studio/QuPeiyinBrowser/blob/main/docs/qa.md)**<br>[停止维护说明](https://www.bilibili.com/opus/1090488086216835077)
 
 # XTC Browser / QuPeiyinBrowser
 
